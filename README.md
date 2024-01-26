@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavinandhanb](https://github.com/kavinandhanb)
 
-- 💬 Ask me about **Tech Design**
+- 💬 Ask me about Machine Learning and Deep Learning
+
+- 📫 How to reach me kavinandhan712@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
