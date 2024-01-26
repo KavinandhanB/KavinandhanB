@@ -2,7 +2,7 @@
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KavinandhanB&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
 <p align="left"> <a href="https://twitter.com/Kavinandhan3" target="blank"><img src="https://img.shields.io/twitter/follow/Kavinandhan3?logo=twitter&style=for-the-badge" alt="Kavinandhan3" /></a> </p>
