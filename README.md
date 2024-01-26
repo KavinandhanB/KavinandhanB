@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Tech Design**
 
-- 📫 How to reach me **kavinandhan712@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Kavinandhan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immj31" height="30" width="40" /></a>
