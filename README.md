@@ -14,8 +14,12 @@ I am enthusiastic about applying my skills and knowledge as a systems and machin
 
 <a href="https://www.github.com/sosso21" target="_blank" rel="noreferrer"></a>
 
+### Skills
+
 
 - 🌱 I’m currently Pursuing **ECE @Amrita university Coimbatore**
+
+- 👯 I’m looking to collaborate on **more ML and DL projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavinandhanb](https://github.com/kavinandhanb)
 
