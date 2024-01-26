@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Kavinandhan B+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Kavinandhan B Welcome to my Profile! animated typed out">
+<h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm Kavinandhan B</h1>
+
+<h3 align="center">A passionate ML, Systems Engineer from India</h3>
+
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
