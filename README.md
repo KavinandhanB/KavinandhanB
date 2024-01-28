@@ -49,6 +49,6 @@ I am enthusiastic about applying my skills and knowledge as a systems and machin
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinandhanB&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
