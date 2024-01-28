@@ -47,6 +47,7 @@ I am enthusiastic about applying my skills and knowledge as a systems and machin
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinandhanB&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
